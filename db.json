@@ -1,5 +1,4 @@
-[
-  {
+{
     "nombre": "Producto XYZ",
     "precio": "60.00",
     "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
@@ -143,4 +142,3 @@
     "categoria": "Diversos",
     "id": "d6"
   }
-]
