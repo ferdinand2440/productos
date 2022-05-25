@@ -1,4 +1,4 @@
-[
+{ "productos": [
   {
     "nombre": "Producto XYZ",
     "precio": "60.00",
@@ -143,4 +143,5 @@
     "categoria": "Diversos",
     "id": "d6"
   }
-]
+   ]
+}
